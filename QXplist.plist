@@ -18,13 +18,13 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>YUhSMGNEb3ZMekV5TUM0eE9UWXVNVEV3TGpFNU5pOXRieTlKVDFOaGNIQXVhWEJo</string>
+                        <string>http://120.196.110.196/mo/IOSapp.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>Y29tLnpoZW5nbWVuZy50ZWNr</string>
+                    <string>com.zhengmeng.teck</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
