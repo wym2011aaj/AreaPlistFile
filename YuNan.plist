@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
-   QCplist.plist
+   YuNan.plist
    AreaPlistFile
 
    Created by ZMMacBook on 2017/3/8.
    Copyright (c) 2017年 ZMMacBook. All rights reserved.
-  
-   清城区移动办公.plist
+ 
+   郁南县.plist
 -->
 <plist version="1.0">
     <dict>
@@ -20,7 +20,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://120.196.110.196/mo/IOSapp.ipa</string>
+                        <string>http://219.131.175.40:8383/mo/IOSapp.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -32,7 +32,7 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>清城区移动办公</string>
+                    <string>郁南县移动办公</string>
                 </dict>
             </dict>
         </array>

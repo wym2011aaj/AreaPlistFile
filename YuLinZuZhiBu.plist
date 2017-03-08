@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   YuLinZuZhiBu.plist
+   AreaPlistFile
+
+   Created by ZMMacBook on 2017/3/8.
+   Copyright (c) 2017年 ZMMacBook. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://222.217.240.133:47256/mo/IOSapp.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zhengmeng.teck</string>
+                    <key>bundle-version</key>
+                    <string>2.3.4</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>玉林组织部移动办公</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
