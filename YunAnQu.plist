@@ -20,7 +20,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://218.15.200.83:8080/mo/IOSapp.ipa</string>
+                        <string>http://218.15.200.84:80/mo/IOSapp.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
