@@ -19,7 +19,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://rd.gdqy.gov.cn:9979/mo/IOSapp.ipa</string>
+                        <string>http://218.16.129.72:9979/mo/IOSapp.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
