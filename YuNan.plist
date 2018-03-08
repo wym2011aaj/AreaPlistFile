@@ -20,7 +20,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://219.131.175.40:8383/mo/IOSapp.ipa</string>
+                        <string>http://oa.gdyunan.gov.cn:8090/oa/IOSapp.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
