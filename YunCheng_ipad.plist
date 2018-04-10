@@ -20,7 +20,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://oa.yfyunchengqu.gov.cn:8803/mo/IOSiPad.ipa</string>
+                        <string>http://oa.yfyunchengqu.gov.cn/mo/IOSiPad.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
