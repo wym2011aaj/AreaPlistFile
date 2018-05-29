@@ -1,0 +1,38 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   AreaPlistFile
+   Created by ZMMacBook on 2018/4/20.
+   Copyright (c) 2018年 ZMMacBook. All rights reserved.
+ 点餐系统同
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://218.21.70.237:8054/mo/IOSapp.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zhengmeng.teck</string>
+                    <key>bundle-version</key>
+                    <string>1.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>食堂点餐系统</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
