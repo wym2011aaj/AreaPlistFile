@@ -23,7 +23,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.zhengmeng.teck</string>
+                    <string>zm.--</string>
                     <key>bundle-version</key>
                     <string>2.3.4</string>
                     <key>kind</key>
